@@ -7,7 +7,7 @@ const productsSchema = new Schema(
     priceCOP: Number,
     priceUSD: Number,
     cantidad: Number,
-    desgaste: Number,
+    deterioro: Number,
   },
   {
     timestamps: true,
