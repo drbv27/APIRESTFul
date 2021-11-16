@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
-const USER = "fazt";
-const PASS = "E9G7gMi9QfE4ojEi";
+const USER = "drbv27";
+const PASS = "qxEWgeMJxkgKxlIA";
 const DATAB = "companydb";
 const uri = `mongodb+srv://${USER}:${PASS}@cluster0.mzxff.mongodb.net/${DATAB}?retryWrites=true&w=majority`;
 mongoose
